@@ -3,7 +3,7 @@
     "path": "~/GitHub/Personal Web (RMD)/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "2047514931",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1660544390026.0,
@@ -12,8 +12,8 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "20,5",
-        "scrollLine": "0"
+        "cursorPosition": "20,0",
+        "scrollLine": "4"
     },
     "folds": "",
     "lastKnownWriteTime": 1660549275,
