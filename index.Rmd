@@ -15,7 +15,7 @@ knitr::opts_chunk$set(cache = TRUE)
 ```
 ![Shike Zhang](index/4-3.jpg#pic_center){width=40%}
 
-I am broadly interested in applying numerical methods to ecological and environmental problems. I have just achieved my Bachelor degree in Environmental Science from [Tongji University](https://www.tongji.edu.cn/). I am now living in Shanghai, China and going to study in U-M SEAS PhD program.[Change Page Style](https://shikeblog.netlify.app/)
+I am broadly interested in applying numerical methods to ecological and environmental problems. I have just achieved my Bachelor degree in Environmental Science from [Tongji University](https://www.tongji.edu.cn/). I am now living in Shanghai, China and going to study in U-M SEAS PhD program.[(Change Page Style)](https://shikeblog.netlify.app/)
 
 Email: [1850111@tongji.edu.cn](1850111@tongji.edu.cn)
 </br>
@@ -54,7 +54,7 @@ Celebration of my graduation and establishment of Shike's Blog.I achieved Bachel
 </br>
 3.[Preparation of a novel sludge-derived biochar by K<sub>2</sub>FeO<sub>4</sub> conditioning to enhance the removal of Pb<sup>2+</sup>.](Preparation-of-a.html) 
 
-
+<!--ChatBox Starts-->
  <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
   <script>
     window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
@@ -94,3 +94,4 @@ Celebration of my graduation and establishment of Shike's Blog.I achieved Bachel
     description: "I'll get back to you as soon as possible.",
     action: "https://formspree.io/xnqwkyad"})
   </script>
+  <!--ChatBox Ends-->
