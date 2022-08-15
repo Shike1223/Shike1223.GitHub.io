@@ -8,6 +8,7 @@ thumbnails: true
 lightbox: true
 gallery: false
 highlight: tango
+
 ---
 ```{r setup, include=FALSE}
 ## Global options
