@@ -21,6 +21,9 @@ I am broadly interested in applying numerical methods to ecological and environm
 **Email:** [1850111@tongji.edu.cn](1850111@tongji.edu.cn)
 </br>
 **Download** my [resumé](index/CV.pdf).
+</br>
+**Visit** my [Github](https://github.com/Shike1223).
+
 
 <font size=4.5>**Interests**</font>
 </br>
