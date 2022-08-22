@@ -1,0 +1,69 @@
+---
+title: ""
+date: "`r Sys.Date()`"
+output:
+  rmdformats::robobook:
+    self_contained: true
+thumbnails: false
+lightbox: false
+gallery: false
+highlight: tango
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<font size=4.5>**Novel Machine Learning-based Energy Consumption Model of Wastewater Treatment Plants**</font></br>**Shike Zhang**, Hongtao Wang, Arturo A. Keller</br>January, 2021
+![](Publication/Novel machine learning.jpg#pic_center){width=100%}
+<font size=4.5>**Abstract**</font>
+
+Wastewater treatment plants (WWTPs) can account for up to 1% of a country's energy consumption. Meanwhile, WWTPs have high energy-saving potential. To achieve this, it is necessary to establish appropriate energy consumption models for WWTPs. Several recent models have been developed using logarithmic, exponential, or linear functions. However, the behavior of WWTPs is non-linear, and difficult to fit with simple functions particularly for non-numerical variables. Thus, traditional modeling methods cannot effectively describe the relationship between water and energy in WWTPs. Therefore, a machine learning method was adopted in this study to investigate the energy consumption in WWTPs; a novel energy consumption model with a non-numerical variable (discharge standard) for WWTPs was developed using the random forest algorithm. The model can also predict the energy consumption of WWTPs after upgrading discharge standards. We found that the unit electricity consumption of WWTPs exhibited an average increase of 17% after the effluent discharge standard was raised from Class I B to Class I A (per China’s classification). The correlation coefficient of the model was 0.702, and the Mean Squared Error was 0.0112 (kWh/m3)2, while the Mean Absolute Percentage Error was 6.86%. Thus, the developed model can provide a better understanding of energy efficiency in WWTPs.
+
+<font size=4.5>**Published** in *ACS ES&T Water*</font>
+</br>
+<font size=4.5>**[PDF Download](Publication/Novel machine learning.pdf)**</font>
+
+<div align=right><font size=4.5>**[Back to Mainpage](Mainpage.html)**</font></div>
+
+<!--ChatBox Starts-->
+ <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
+  <script>
+    window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
+    formbutton("create", {fields: [{
+      name: "name",
+      type: "text",
+      label: "Your Name",
+      required: true,
+    },
+    {
+      name: "email",
+      type: "email",
+      label: "Your Email",
+      required: true
+    },
+    {
+      name: "Message",
+      type: "textarea"
+    },
+    {
+      type: "submit"
+    }],
+    styles: {
+      fontFamily:'"Lato", sans-serif',
+      button: {
+        background: "#000000"
+      },
+      description: {
+        background: "#000000"
+      },
+      title: {
+        background: "#000000",
+        letterSpacing: "0.05em",
+        textTransform: "uppercase"
+      }
+    },
+    description: "I'll get back to you as soon as possible.",
+    action: "https://formspree.io/xnqwkyad"})
+  </script>
+  <!--ChatBox Ends-->
