@@ -3,7 +3,7 @@
     "path": "~/GitHub/Personal Web (RMD)/Novel machine learning.Rmd",
     "project_path": "Novel machine learning.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "3491712205",
     "contents": "",
     "dirty": false,
     "created": 1660544761324.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "24,30",
-        "scrollLine": "0"
+        "cursorPosition": "68,21",
+        "scrollLine": "38"
     },
     "folds": "",
-    "lastKnownWriteTime": 1661064985,
+    "lastKnownWriteTime": 1661208267,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1661064985,
+    "last_content_update": 1661208267693,
     "read_only": false,
     "read_only_alternatives": []
 }
