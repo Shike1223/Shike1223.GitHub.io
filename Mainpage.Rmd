@@ -18,7 +18,7 @@ knitr::opts_chunk$set(cache = TRUE)
 
 I am broadly interested in applying numerical methods to ecological and environmental problems. I have just achieved my Bachelor degree in Environmental Science from [Tongji University](https://www.tongji.edu.cn/). I am now living in Shanghai, China and going to study in U-M SEAS PhD program.[(Change Page Style)](https://shikeblog.netlify.app/)
 
-**Email:** [1850111@tongji.edu.cn](1850111@tongji.edu.cn)
+**Email:** [zhangsk@umich.edu](zhangsk@umich.edu)
 </br>
 **Download** my [resumé](index/CV.pdf).
 </br>
