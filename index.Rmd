@@ -6,6 +6,11 @@ links:
     url: "Mainpage.html"
   - label: "Github"
     url: "https://github.com/Shike1223"
+  - label: "Linkedin"
+    url: "https://linkedin.com/in/shike-zhang-2a71b6262/"
+  - label: "Twitter"
+    url: "https://twitter.com/zhangsk1223"
+    
 output:
   postcards::jolla
 ---
