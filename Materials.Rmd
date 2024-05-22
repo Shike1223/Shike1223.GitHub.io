@@ -1,26 +1,22 @@
 ---
-title: "Shike Zhang"
-image: "index/4-3.jpg#pic_center"
-links:
-  - label: "Enter Homepage"
-    url: "Mainpage.html"
-  - label: "Github"
-    url: "https://github.com/Shike1223"
-  - label: "Linkedin"
-    url: "https://linkedin.com/in/shike-zhang-2a71b6262/"
-  - label: "Twitter"
-    url: "https://twitter.com/zhangsk1223"
-  - label: "Materials (permission required)"
-    url: "Materials.html"
-    
+title: ""
+date: "`r Sys.Date()`"
 output:
-  postcards::jolla
+  rmdformats::robobook:
+    self_contained: true
+thumbnails: false
+lightbox: false
+gallery: false
+highlight: tango
 ---
- 
-I am broadly interested in applying numerical methods to ecological and
-environmental problems. I have just achieved my Bachelor degree in Environmental
-Science from Tongji University. I am now living in Shanghai, China and going to 
-study in U-M SEAS PhD program.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<font size=4.5>**[May 22,2024, HTML file share](https://drive.google.com/file/d/1pbuC8FPtGOlMrPYcDMbdvP2CHUQ-erjR/view)**</font>
+
+<div align=right><font size=4.5>**[Back to Mainpage](Mainpage.html)**</font></div>
 
 <!--ChatBox Starts-->
  <script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
